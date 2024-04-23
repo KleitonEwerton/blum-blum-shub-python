@@ -1,4 +1,5 @@
-# blum-blum-shub-python
+# Blum Blum Shub
+
 ```
 # Entrando na pasta raiz do projeto
 
